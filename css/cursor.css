@@ -1,0 +1,8 @@
+.cursors {
+    margin: 20px;
+    background-image: url("assets/news1.webp");
+    background-position: center;
+    background-size: cover;
+    width: 9;
+    height: 40vh;
+}
